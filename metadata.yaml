@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32104'
     url: http://www.gutenberg.org/2009/agents/32104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26566#La-g-om-trie-en-vers-techniques
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
